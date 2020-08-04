@@ -49,3 +49,8 @@ The notebooks expect that the following files are present in the `data` folder:
 3. sample_submission.csv
 
 **The data is the provided by Kaggle, as the problem statement is a part of a Kaggle Competition**
+
+## Additional data required by the project
+1. Glove Embeddings: https://www.kaggle.com/authman/pickled-glove840b300d-for-10sec-loading
+2. FastText Embeddings: https://www.kaggle.com/authman/pickled-crawl-300d-2m
+
