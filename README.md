@@ -5,10 +5,10 @@
 
 In this project, our objective is to create a machine learning model which is capable of classifying a tweet into either a tweet related to a disaster or not. We analyse, clean and process the tweets (natural language) and build models to serve our purpose. As the problem is part of a Kaggle Competition, data is provided by Kaggle. Exploratory Data Analysis is carried out and important inferences are drawn to further drive our problem solving. The state of art NLP models such as BERT and TF-IDF are used. The results are compared for a number of variations in models and their hyperparameters. Tuning is done accordingly to come to the best results possible. In the end the best results are submitted as a part of Kaggle Competition Submission.
 
-# Kaggle Competition Details
+## Kaggle Competition Details
 url: https://www.kaggle.com/c/nlp-getting-started/
 
-# Software and Libraries
+## Software and Libraries
 
 This project uses Python 3 and is designed to be completed through the Jupyter Notebooks IDE or any other program which lets you edit .ipynb files.
 It is highly recommended  that you use the Anaconda distribution to install Python, since the distribution includes all necessary Python libraries
