@@ -37,6 +37,12 @@ The following libraries are expected to be used in this project:
 * CountVectorizer
 * time
 * re
+* KNeighborsClassifier
+* RandomForestClassifier
+* SVC
+* confusion_matrix
+* accuracy_score
+* train_test_split
 
 
 ## How the project is organized
